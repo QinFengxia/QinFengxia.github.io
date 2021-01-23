@@ -1,4 +1,4 @@
 # Blog
 
-## Vist my site
+## Viste my site
 [site](./test-site/index.html)
